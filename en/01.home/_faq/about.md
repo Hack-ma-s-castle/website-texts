@@ -127,10 +127,15 @@ abouts:
                 desc: 'Mitmachen & Mitbringen'
         align: image
     -
+        img: bubble11.png
+        heading: 'Ist mein Schlafplatzwahl von der Anmeldung final oder kann ich das noch ändern?'
+        body: 'Nein die Anmeldung ist noch nicht final, aber dient uns ein Gefühl dafür zu bekommen wie viele Wesen wo ungefähr übernachten werden. Wir werden dich bei Anmeldung nochmal fragen, wo du den genau übernachten möchtest. (Dies gilt nicht die Zimmer und Caravan-Stellplätze)'
+        align: inverted
+    -
         img: bubble16.png
         heading: 'Findet das Event sicher statt?'
-        body: 'Wenn wir bis Ende Mai etwa 360 Tickets verkauft haben, findet es fix statt (bam oida, fix oida).'
-        align: inverted
+        body: 'Yesssssssssss :)'
+        align: image
     -
         img: bubble01.png
         heading: 'Weiß ich jetzt wirklich alles, was ich für dieses Event wissen muss?'
@@ -140,7 +145,7 @@ abouts:
                 before: 'In gewohnter Chaosmanier werden diese FAQ sicher zeitgerecht und vollständig befüllt sein. Für alles andere gibt es das '
                 desc: Kontaktformular
                 after: .
-        align: image
+        align: inverted
 ---
 
 # Frequently Asked Questions

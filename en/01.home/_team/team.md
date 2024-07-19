@@ -55,13 +55,25 @@ people:
         alt: 'Logo von ''/usr/space'''
         position: Leobersdorf
         url: 'https://www.usrspace.at/'
-media_order: 'c3w.png,cccsbg.svg,devlol.png,itsyndikat.jpg,metalab.png,r3.svg,SegFaultDragons.png,segvault.png,team.jpg'
+    -
+        name: Gebärdenverse
+        pic: gebaerdenverse.png
+        alt: 'Logo vom ''Gebärdenverse'''
+        position: Wien
+        url: 'https://gebaerdenverse.at/'
+    -
+        name: female coders
+        pic: femalecoders.png
+        alt: 'Logo von ''female coders'' '
+        position: Linz & Wien
+        url: 'https://www.female-coders.at'    
+media_order: 'c3w.png,cccsbg.svg,devlol.png,itsyndikat.jpg,metalab.png,r3.svg,SegFaultDragons.png,segvault.png,team.jpg,femalecoders.png,gebaerdenverse.png'
 ---
 
 # Team
 ### Wer måcht des eigentli?
 ![klausur](team.jpg)
 
-Wir sind das österreichische Chaos, eine Gruppe event-motivierter Menschen aus den Hackspaces, Chaostreffs und Erfas.
+Wir sind das österreichische Chaos, eine Gruppe event-motivierter Menschen aus den Hackspaces, Chaostreffs, Erfas und Gleichgesinnten.
 metalab, realraum, C3W, CCC Salzburg, /dev/lol, SegFaultDragons, SegVault, IT-Syndikat, /usr/space etc.
 
